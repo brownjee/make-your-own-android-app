@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\BROWNJEE\AndroidStudioProjects\NigerPot\app\build\intermediates\pre-dexed\debug\classes-486f363aa96bffb26c74f97ba1237b5d7d8a5dff.jar"
+        jar="C:\Users\BROWNJEE\AndroidStudioProjects\NigerPot\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\BROWNJEE\AndroidStudioProjects\NigerPot\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b8fa6a3fdf94242b78000008b7d2b7447e57a13f.jar"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

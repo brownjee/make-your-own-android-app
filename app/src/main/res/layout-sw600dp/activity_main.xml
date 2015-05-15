@@ -1,0 +1,194 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity"
+    >
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:columnCount="3"
+
+        >
+
+        <TextView
+            android:id="@+id/abacha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/abachaf"
+            android:padding="10dp"
+            android:text="Abacha  NGN750"
+            android:textSize="12sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/afiaefere"
+            android:padding="10dp"
+            android:text="Afia Efere N500"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/edikangikong"
+            android:padding="10dp"
+            android:text="Edikang Ikong N200"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/ekpangnkukwu"
+            android:padding="10dp"
+            android:text="Ekpang Nkukwu N600"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/garrieba"
+            android:padding="10dp"
+            android:text="Garri Eba N600"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/ogbono"
+            android:padding="10dp"
+            android:text="Ogbono Soup N150"
+            android:textSize="12sp" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/abachaf"
+            android:padding="10dp"
+            android:text="Abacha  NGN750"
+            android:textSize="12sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/afiaefere"
+            android:padding="10dp"
+            android:text="Afia Efere N500"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/edikangikong"
+            android:padding="10dp"
+            android:text="Edikang Ikong N200"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/ekpangnkukwu"
+            android:padding="10dp"
+            android:text="Ekpang Nkukwu N600"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/garrieba"
+            android:padding="10dp"
+            android:text="Garri Eba N600"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/ogbono"
+            android:padding="10dp"
+            android:text="Ogbono Soup N150"
+            android:textSize="12sp" />
+        <TextView
+
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/abachaf"
+            android:padding="10dp"
+            android:text="Abacha  NGN750"
+            android:textSize="12sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/afiaefere"
+            android:padding="10dp"
+            android:text="Afia Efere N500"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/edikangikong"
+            android:padding="10dp"
+            android:text="Edikang Ikong N200"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/ekpangnkukwu"
+            android:padding="10dp"
+            android:text="Ekpang Nkukwu N600"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/garrieba"
+            android:padding="10dp"
+            android:text="Garri Eba N600"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:drawableTop="@drawable/ogbono"
+            android:padding="10dp"
+            android:text="Ogbono Soup N150"
+            android:textSize="12sp" />
+
+
+
+    </GridLayout>
+</ScrollView>
+
+
+
+
